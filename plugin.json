@@ -1,0 +1,5 @@
+{
+  "name": "Rename Jotego Core Platform Names",
+  "description": "Gives Jotego cores friendly platform names. (example: jtsimson -> The Simpsons)",
+  "allowed_hosts": ["raw.githubusercontent.com"]
+}
